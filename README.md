@@ -1,1 +1,3 @@
-# supreme-octo-spoon
+# Analyzing Customer Sentiment in British Airways Reviews
+
+This project aims to collect and analyze review data from the Skytrax website regarding British Airways. The main focus of this project is to gain insights into customer perceptions and experiences with the airline's services. In the analysis process, several techniques can be applied, including sentiment analysis to determine the dominant sentiment in the reviews, as well as the creation of a word cloud to identify frequently mentioned words or themes in the feedback provided by passengers. As a result, this project is expected to provide a deeper understanding of the strengths and weaknesses of the services offered by British Airways based on user feedback.
